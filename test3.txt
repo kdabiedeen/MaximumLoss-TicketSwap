@@ -1,0 +1,7 @@
+passenger(ivan, 1,3).
+
+passenger(jin, 2,6).
+
+passenger(kyle, 3,4).
+
+passenger(lona, 4,10).

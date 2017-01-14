@@ -1,0 +1,7 @@
+passenger(alex,1,5).
+
+passenger(bob, 2,3).
+
+passenger(chris, 3,5).
+
+passenger(dan, 5,10).

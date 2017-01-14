@@ -1,0 +1,11 @@
+passenger(min, 1,4).
+
+passenger(nina, 2,6).
+
+passenger(octavian, 3,4).
+
+passenger(rob, 4,10).
+
+passenger(steve, 5,20).
+
+passenger(george,3,7).
